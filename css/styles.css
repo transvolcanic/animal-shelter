@@ -1,10 +1,23 @@
+h1 {
+    font-family: 'Nanum Gothic', sans-serif;
+    font-style:italic;
+    font-size:65px;
+    color:gold;
+}
 
 
-li {display:inline;
+
+
+
+
+li {
+    display:inline;
     margin: 15;
     padding: 15;
     overflow: hidden;
     background-color:azure;
-    width: 300px;
+    font-family: 'nanum gothic', sans-serif;
+    font-weight:900;
+
 
 }
