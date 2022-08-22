@@ -5,6 +5,12 @@ h1 {
     color:gold;
 }
 
+h2 {
+    font-family: 'Nanum Gothic', sans-serif;
+    font-style:italic;
+    font-size:40px;
+}
+
 
 
 
@@ -12,11 +18,13 @@ h1 {
 
 li {
     display:inline;
-    margin: 15;
-    padding: 15;
+    width:200px;
+    margin: 75px;
+    padding: 20px;
     overflow: hidden;
-    background-color:azure;
+    background-color:gold;
     font-family: 'nanum gothic', sans-serif;
+    font-size: 30px;
     font-weight:900;
 
 
