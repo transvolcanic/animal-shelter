@@ -25,11 +25,7 @@ h3 {
 }
 
 
-
-
-
-
-li {
+.buttons li {
     display:inline;
     width:200px;
     margin: 100px;
@@ -39,7 +35,15 @@ li {
     font-family: 'nanum gothic', sans-serif;
     font-size: 30px;
     font-weight:900;
-
+    
 
 }
+
+.buttons p a {
+    color:black
+}
+
+
+
+
 
