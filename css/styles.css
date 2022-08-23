@@ -45,17 +45,68 @@ h3 {
     text-decoration: none;
 }
 
-.profiles p {
+
+
+
+.profile1  {
     width: 400px;
-    margin: 100px;
+    margin: 15px;
+    border-image: 2px;
+    border-color:black;
     padding: 20px;
     font-family: 'nanum gothic', sans-serif;
     font-size: 25px;
-    font-weight: 400;
+    font-weight: 600;
     float: left;
+    box-sizing:border-box;
 }
 
-.profiles a 
+.profile2 {
+    width: 400px;
+    margin: 15px;
+    border-image: 2px;
+    border:black;
+    padding: 20px;
+    font-family: 'nanum gothic', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    float: left;
+    box-sizing: border-box;
+}
+    
+
+
+
+.profile3 {
+    width: 400px;
+    border-width: 2px;
+    border:black;
+    margin: 15px;
+    padding: 20px;
+    font-family: 'nanum gothic', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    float: left;
+    box-sizing; border-box;
+}
+
+.profile4 {
+    width: 400px;
+    margin: 10px;
+    border-image: 2px;
+    border-color:black;
+    padding: 20px;
+    font-family: 'nanum gothic', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    align-content: center;
+    box-sizing: border-box;
+}
+
+
+
+
+
 
 
 
