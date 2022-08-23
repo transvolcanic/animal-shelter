@@ -1,3 +1,8 @@
+body {
+    background-color:rgb(255, 255, 255);
+}
+
+
 h1 {
     font-family: 'Nanum Gothic', sans-serif;
     font-style:italic;
@@ -16,6 +21,7 @@ h3 {
     font-family: 'Nanum Gothic', sans-serif;
     font-size:50px;
     margin: 80px;
+    margin-left: 15px;
 }
 
 
@@ -26,7 +32,7 @@ h3 {
 li {
     display:inline;
     width:200px;
-    margin: 85px;
+    margin: 100px;
     padding: 10px;
     overflow: hidden;
     background-color:gold;
