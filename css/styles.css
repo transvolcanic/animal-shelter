@@ -39,9 +39,11 @@ h3 {
 
 }
 
-.buttons p a {
-    color:black
+.buttons li a {
+    color:black;
+    text-decoration: none;
 }
+
 
 
 
